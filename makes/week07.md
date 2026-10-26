@@ -1,19 +1,27 @@
 # Week 7 – Mapping AI Worlds
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+https://www.google.com/maps/d/u/0/edit?mid=1UR8zOj2Rg_X0yjtgtGpoenNBFk29hfI&ll=1.0011745563439547%2C0&z=2
 
 ## Process Notes
-How did you make this?
-What tools did you use?
-What decisions did you make?
+When I use AI, I usually experience it through a screen: I enter a prompt, receive an answer, and move on. For this project, I wanted to look behind that interface and ask what makes this seemingly effortless technology possible. My map connects corporate headquarters, data centers, mining regions, and digital labor hubs to reveal the geography hidden behind AI.
+The pattern I found is an uneven distribution of power and responsibility. Corporate headquarters concentrate decision-making, while computing infrastructure requires land and energy, mineral extraction affects local environments and communities, and outsourced workers help prepare data and make AI systems safer. These locations do not automatically form a direct supply chain, but together they reveal the wider material and human systems that AI depends on. The people who benefit from AI and the people who bear its costs are not always the same.
+This map connects to Data Feminism through its attention to power and missing data. A map may look objective, but every decision about what to include, classify, and emphasize shapes its argument. I chose different colors for each layer to distinguish these systems, while placing them on one map to encourage viewers to consider their relationships. This is also a form of counter-mapping: shifting attention away from familiar technology headquarters toward places and workers that are often absent from narratives of innovation.
+However, visibility is not the same as complete representation. A pin cannot communicate the full experience of a worker, the history of a displaced community, or every environmental consequence of extraction. A map drawn from a corporate perspective might emphasize investment and innovation; one drawn from a worker’s perspective might begin with wages, safety, and dignity.
+Ultimately, my map argues that AI is not immaterial or geographically neutral. Understanding it requires asking not only what the technology can do, but who has the power to build it, who sustains it, and who is left out of its story.
+
 
 ## Reflection
-Respond to this week’s reflection prompt in 200–300 words.
+For this project, I created a digital map using Google My Maps to investigate how artificial intelligence depends on physical infrastructure and human labor. I organized my research around corporate headquarters, data centers, mineral extraction, and content moderation and data labeling. Together, these layers examine AI not simply as software, but as a global system in which decision-making, resources, and labor are distributed unevenly.
+My research draws on Kate Crawford’s Atlas of AI (2021), which examines the material and political costs of artificial intelligence, and Catherine D’Ignazio and Lauren F. Klein’s Data Feminism (2020), which challenges the assumption that data and visualization are neutral. I also consulted Amnesty International and IBGDH’s report Powering Change or Business as Usual? (2023), which documents forced evictions and other human-rights abuses associated with cobalt and copper mining in the Democratic Republic of the Congo. TIME’s 2023 investigation into Kenyan workers hired through Sama to label harmful content for OpenAI provided a concrete example of the human labor involved in AI safety. For computing infrastructure, I used Google’s official information about its Iowa data centers to examine how technology companies establish physical facilities in particular regions. These sources connect individual locations to broader questions of corporate power, environmental responsibility, and working conditions.
+One of the hardest parts of my research was finding reliable information about people and activities that technology companies do not always make visible. Headquarters and major data centers are relatively easy to locate, but subcontractors, working conditions, and supply-chain relationships are harder to trace. I therefore distinguished documented facilities and historical cases from broader regional research markers. I also avoided claiming that a particular mine directly supplies a particular AI company without evidence.
+What surprised me was the contrast between the concentrated geography of corporate decision-making and the dispersed geography of the labor and resources that support AI. A company’s product may appear frictionless to its users, yet its infrastructure depends on electricity, land, minerals, maintenance, and human judgment.
+The map is not a complete picture of this system. Its missing information is significant: a location cannot represent every worker’s experience, and public sources do not reveal every supply-chain connection. Following Data Feminism, I treat these gaps as part of the argument. The map asks not only where AI exists, but whose contributions are visible, whose costs are documented, and whose experiences remain outside the frame.
+
 
 ## Attribution & AI Use
-- Tools used:
-- AI prompts (summary):
-- What AI generated:
-- What you changed or decided:
+Mapping Platform: Google My Maps
+Data Visualization: The map contains four thematic layers: Corporate Headquarters, Data Centers, Mining and Materials, and Content Moderation and Data Labeling Labor.
+Sources: Kate Crawford’s Atlas of AI (2021); D’Ignazio and Klein’s Data Feminism (2020); Amnesty International and IBGDH (2023); TIME (2023); Google Data Centers; and additional information from OpenAI, Anthropic, the AI Now Institute, Rest of World, and the U.S. Geological Survey.
+AI Assistance Disclosure: ChatGPT was used to help organize research and develop map annotations. Other than that, all claims and location details are  verified manually against original sources. Regional research markers are distinguished from verified facility locations, and no direct supply-chain relationship is claimed without supporting evidence.
+
